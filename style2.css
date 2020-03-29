@@ -1,0 +1,13 @@
+p {
+    
+font-size: 20px;
+    font-style: italic;
+color:black;
+    
+}
+h1 {font-size: 55px;
+    font-style: oblique;
+    color:blueviolet;
+    font-family: fantasy;
+    cursor: copy;
+}
